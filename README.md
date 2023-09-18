@@ -1,5 +1,7 @@
 # ProductManagementApp
 
+This app has no practical use, I simply built it during a follow-along course on Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
 ## Development server
